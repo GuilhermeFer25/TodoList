@@ -45,8 +45,6 @@ npm run dev
 
 ```
 Em seguida acesse http://localhost:3000 no seu navegador.
-```
-
 
 
 ## :memo: Licença
