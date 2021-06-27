@@ -39,14 +39,15 @@ Instale todas as dependências do projeto
 ```
 npm install
 ```
-```
 Dê start na apliação
-
 ```
 npm run dev
+
+```
+Em seguida acesse http://localhost:3000 no seu navegador.
 ```
 
-Em seguida acesse http://localhost:3000 no seu navegador.
+
 
 ## :memo: Licença
 
