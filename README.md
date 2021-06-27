@@ -24,6 +24,29 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O TodoList Web e uma aplicação desenvolvida para ajudar nas tarefas com sua primeira versão com o pções de excluir a tarefa adicionar editar, todo o projeto foi desenvolvido juntamente com o curso full-stack da OneBitCode, o projeto conta com banco de dados (MongoDB) para armazenar toda sua tarefa diaria 
 
+## 💾 Instalação
+
+Siga os passos a baixo para executar o projeto!
+
+Clone o repositório
+
+```
+git clone https://github.com/GuilhermeFer25/TodoList.git
+```
+
+Instale todas as dependências do projeto
+
+```
+npm install
+```
+```
+Dê start na apliação
+
+```
+npm run dev
+```
+
+Em seguida acesse http://localhost:3000 no seu navegador.
 
 ## :memo: Licença
 
