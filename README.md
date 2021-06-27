@@ -18,4 +18,17 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - NodeJS
 - EJS
 - Express
-####
+
+
+## 💻 Projeto
+
+O TodoList Web e uma aplicação desenvolvida para ajudar nas tarefas com sua primeira versão com o pções de excluir a tarefa adicionar editar, todo o projeto foi desenvolvido juntamente com o curso full-stack da OneBitCode, o projeto conta com banco de dados (MongoDB) para armazenar toda sua tarefa diaria 
+
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
+
+---
+
+Feito com ♥ by Guilherme Fernandes
